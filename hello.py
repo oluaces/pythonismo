@@ -6,3 +6,5 @@ Created on Wed Jun 17 13:21:31 2015
 """
 
 print 'Hello, GitHub!'
+
+# print writing on Atom
